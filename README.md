@@ -3,8 +3,8 @@
 <a href="https://discord.gg/이진원#7170" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="이진원#7170" height="30" width="40" /></a>
 </p>
 
-<h1 align="left">Hi 👋 This is Jinwon Lee , who dreams of becoming a creative developer</h1>
-<h3 align="left">I'm working hard to make myself better than yesterday!</h3>
+<h1 align="left">I'm Jinwon Lee, aspiring to be a creative developer! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h3 align="left">I'm working hard to make myself better than yesterday!</h3><img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 - 📝 I regularly write articles on [https://blog.naver.com/leejinwon012](https://blog.naver.com/leejinwon012)
 
